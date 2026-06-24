@@ -29,7 +29,7 @@ A ROS2 package for autonomous delivery robot navigation in a hotel environment u
 
 ## Simulation Environment
 
-![Hotel World](screenshots/gazebo_hotel_world.png)
+![Hotel World](screenshots/Gazebo_world.png)
 
 ---
 
@@ -41,13 +41,13 @@ A ROS2 package for autonomous delivery robot navigation in a hotel environment u
 
 ## SLAM Mapping Process
 
-![SLAM Mapping](screenshots/slam_mapping_live.png)
+![SLAM Mapping](screenshots/live_mapping.png)
 
 ---
 
 ## Final Occupancy Grid Map
 
-![Final Map](screenshots/final_hotel_map.png)
+![Final Map](screenshots/hotel_map.pgm)
 
 ---
 
